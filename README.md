@@ -8,9 +8,6 @@ Scripts:
 # Run the test suite
 npm test
 
-# Test deploying the contract
-npm run deploy:test
-
 # Deploy the contract to Polygon
 npm run deploy
 
