@@ -5,6 +5,9 @@ The ERC20 contract for the AMANA token
 Scripts:
 
 ```
+# Install dependencies
+npm install
+
 # Run the test suite
 npm test
 
