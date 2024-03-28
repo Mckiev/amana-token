@@ -2,6 +2,8 @@
 
 The ERC20 contract for the AMANA token
 
+Edit the example.env and save as .env to deploy your own
+
 Scripts:
 
 ```
